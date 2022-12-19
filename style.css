@@ -28,6 +28,10 @@ img {
     width: 100%;
 }
 
+/******************* 
+REGOLE header
+*******************/
+
 .row-header {
     justify-content: flex-end;
     padding: 10px;
@@ -53,9 +57,8 @@ REGOLE MAIN
 *******************/
 
 .img-zoomer {
-    width: 183px;
-    height: 108px;
-    
+    width: 220px;
+    height: 120px;
 }
 
 .col {
@@ -75,8 +78,6 @@ REGOLE MAIN
 }
 
 .row-main {
-    width: 1325px;
-    height: 388px;
     flex-wrap: wrap;
 }
 
@@ -91,3 +92,8 @@ REGOLE MAIN
 /***************
  REGOLE FOOTER
  ***************/
+
+
+footer {
+    background-color: rgb(45, 45, 45);
+}
