@@ -99,12 +99,14 @@ REGOLE MAIN
 
 footer {
     background-color: rgb(45, 45, 45);
+    padding: 15px 0px;
 }
 
 .row-footer {
 
 }
 
-.conteiner-footer {
-    
+.start-foot {
+    display: flex; 
+    justify-content: space-between;
 }
