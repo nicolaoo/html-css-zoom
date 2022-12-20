@@ -111,3 +111,22 @@ footer {
     display: flex; 
     justify-content: space-between;
 }
+
+.col-footer {
+    padding: 0 15px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-footer .icon {
+    font-size: 26px;
+}
+
+.end-meet {
+    background-color: gray;
+    opacity: 0.5;
+    color: red;
+
+}
